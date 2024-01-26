@@ -1,0 +1,3 @@
+--flash_mode dio --flash_freq 40m --flash_size keep
+0x20000 void_app.bin
+0x10000 partition_table/partition-table.bin
